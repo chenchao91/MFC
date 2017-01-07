@@ -1,6 +1,6 @@
 #pragma once
 
-//lastlast
+
 // last ¶Ô»°¿ò
 
 class last : public CPropertyPage
