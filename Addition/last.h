@@ -1,8 +1,8 @@
 #pragma once
 
 
-// last ¶Ô»°¿ò
 
+//2
 class last : public CPropertyPage
 {
 	DECLARE_DYNAMIC(last)
