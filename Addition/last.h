@@ -2,7 +2,7 @@
 
 
 // last ¶Ô»°¿ò
-//dep
+
 class last : public CPropertyPage
 {
 	DECLARE_DYNAMIC(last)
